@@ -1,6 +1,6 @@
-### Salut sunt Andrei[mr_l0n3lly]
+### Salut, sunt Andrei[mr_l0n3lly]
 
-## Student, Part-Time worker, Perseverent
+## Student şi Part-Time worker
 - 🔭 Studiez adâncimile programării Web
 - 🌱 Sunt în contiuă dezvoltare
 - 👯 Sunt deschis pentru joburi noi
