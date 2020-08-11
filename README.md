@@ -19,16 +19,12 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=MrLonelly)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLonelly)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ## Aici puteţi găsi toate proiectele mele Web
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=webdev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Însă uite câteva dintre ele:
----
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=piscinePHP)](https://github.com/anuraghazra/github-readme-stats)
 
 
