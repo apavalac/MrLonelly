@@ -17,6 +17,9 @@
 
 ---
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=MrLonelly)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [twitter]: https://twitter.com/mr_l0n3lly
 [instagram]: https://www.instagram.com/apavalac/
 [linkedin]: https://www.linkedin.com/in/andrei-pavalachi-270b3a167/
