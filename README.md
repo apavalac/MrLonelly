@@ -25,9 +25,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=webdev)](https://github.com/MrLonelly/webdev)
 
 ## Însă uite câteva dintre ele:
+
+#### Piscina PHP + Proiectele din piscina
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=piscinePHP)](https://github.com/MrLonelly/piscinePHP)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=ft_minishop)](https://github.com/MrLonelly/ft_minishop)
+##### Proiectele din piscina:
+* [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=ft_minishop)](https://github.com/MrLonelly/ft_minishop)
 
 
 
