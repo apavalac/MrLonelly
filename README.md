@@ -30,7 +30,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=piscinePHP)](https://github.com/MrLonelly/piscinePHP)
 
 ##### Proiectele din piscina:
-* [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=ft_minishop)](https://github.com/MrLonelly/ft_minishop)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=ft_minishop)](https://github.com/MrLonelly/ft_minishop)
 
 
 
