@@ -22,10 +22,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLonelly)](https://github.com/MrLonelly)
 
-## Aici puteţi găsi toate proiectele mele Web
+## Here you can find all web projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=webdev)](https://github.com/MrLonelly/webdev)
 
-## Însă uite câteva dintre ele:
+## The most important web projects
 
 #### My PHP MVC
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=lonellymvc)](https://github.com/MrLonelly/lonellymvc)
