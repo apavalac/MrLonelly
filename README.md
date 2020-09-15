@@ -1,11 +1,11 @@
 ### Salut, sunt Andrei[mr_l0n3lly]
 
 ## Student şi Part-Time worker
-- 🔭 Studiez adâncimile programării Web
-- 🌱 Sunt în contiuă dezvoltare
-- 👯 Sunt deschis pentru joburi noi
-- 🥅 2020 Goals: Să însuşesc mai bine tehnologiile Web
-- ⚡ Fun fact: Foloses vim (old-fag)
+- 🔭 Studying deep web
+- 🌱 I'm  constantly growing
+- 👯 Open for new jobs
+- 🥅 2020 Goals: Learn more about Web Development
+- ⚡ Fun fact: I'm using vim (old-fag)
 
 ### Connect with me:
 
