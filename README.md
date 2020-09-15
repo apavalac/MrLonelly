@@ -1,6 +1,6 @@
-### Salut, sunt Andrei[mr_l0n3lly]
+### Hello, I'm Andrei[mr_l0n3lly]
 
-## Student şi Part-Time worker
+## Student and Part-Time worker
 - 🔭 Studying deep web
 - 🌱 I'm  constantly growing
 - 👯 Open for new jobs
