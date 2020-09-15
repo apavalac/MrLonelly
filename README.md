@@ -27,6 +27,9 @@
 
 ## Însă uite câteva dintre ele:
 
+#### My PHP MVC
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=lonellymvc)](https://github.com/MrLonelly/lonellymvc)
+
 #### Piscina PHP + Proiectele din piscina
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=piscinePHP)](https://github.com/MrLonelly/piscinePHP)
 
