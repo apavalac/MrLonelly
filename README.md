@@ -33,10 +33,10 @@
 #### Projects having as base my PHP MVC Framework
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=sharepostapp)](https://github.com/MrLonelly/sharepostapp)
 
-#### Piscina PHP + Proiectele din piscina
+#### Piscine PHP
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=piscinePHP)](https://github.com/MrLonelly/piscinePHP)
 
-#### Proiectele din piscina:
+#### Projects from ecole42:
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=ft_minishop)](https://github.com/MrLonelly/ft_minishop)
 
 
