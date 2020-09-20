@@ -30,13 +30,13 @@
 #### My PHP MVC
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=lonellymvc)](https://github.com/MrLonelly/lonellymvc)
 
-### Projects having as base my PHP MVC Framework
+#### Projects having as base my PHP MVC Framework
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=sharepostapp)](https://github.com/MrLonelly/sharepostapp)
 
 #### Piscina PHP + Proiectele din piscina
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=piscinePHP)](https://github.com/MrLonelly/piscinePHP)
 
-##### Proiectele din piscina:
+#### Proiectele din piscina:
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrLonelly&repo=ft_minishop)](https://github.com/MrLonelly/ft_minishop)
 
 
