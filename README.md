@@ -32,8 +32,8 @@
 #### Projects having as base my PHP MVC Framework
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apavalac&repo=sharepostapp)](https://github.com/apavalac/sharepostapp)
 
-#### Piscine PHP
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apavalac&repo=piscinePHP)](https://github.com/apavalac/piscinePHP)
+#### Entry task for Mediapark as a PHP Junior
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apavalac&repo=holyuugle)](https://github.com/apavalac/holyuugle)
 
 #### Projects from ecole42:
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apavalac&repo=ft_minishop)](https://github.com/apavalac/ft_minishop)
