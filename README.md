@@ -19,7 +19,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=apavalac)](https://github.com/apavalac)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apavalac)](https://github.com/apavalac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-l0n3lly)](https://github.com/mr-l0n3lly)
 
 ## Here you can find all web projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apavalac&repo=webdev)](https://github.com/apavalac/webdev)
