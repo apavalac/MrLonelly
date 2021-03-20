@@ -1,11 +1,10 @@
-### Hello, I'm Andrei[apavalac]
+### Hello, I'm Andrei[mr-l0n3lly]
 
-## Student and Part-Time worker
+## FullStack JS Developer and CyberSecurity Student
 - 🔭 Studying deep web
 - 🌱 I'm  constantly growing
 - 👯 Open for new jobs
-- 🥅 2020 Goals: Learn more about Web Development
-- ⚡ Fun fact: I'm using vim (old-fag)
+- 🥅 2021 Goals: Learn more about Web Development
 
 ### Connect with me:
 
@@ -17,7 +16,7 @@
 
 ---
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=apavalac)](https://github.com/apavalac)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=mr-l0n3lly)](https://github.com/mr-l0n3lly)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-l0n3lly)](https://github.com/mr-l0n3lly)
 
