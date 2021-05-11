@@ -18,7 +18,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=mr-l0n3lly)](https://github.com/mr-l0n3lly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-l0n3lly)](https://github.com/mr-l0n3lly)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=mr-l0n3lly&theme=dark&show_icons=true)](https://github.com/mr-l0n3lly)
 
 
 [twitter]: https://twitter.com/mr_l0n3lly
