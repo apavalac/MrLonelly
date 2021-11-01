@@ -22,7 +22,7 @@
 
 <hr />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-l0n3lly&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mr-l0n3lly" />
-<hr>
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=mr-l0n3lly&show_icons=true&locale=en&theme=onedark" alt="mr-l0n3lly" />
 <br />
