@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mr_l0n3lly" target="blank"><img src="https://img.shields.io/twitter/follow/mr_l0n3lly?logo=twitter&style=for-the-badge" alt="mr_l0n3lly" /></a> </p>
 
+<img align="center" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif" width="40" height="40" />
+
+
 - 🌱 I’m currently learning **microservices and NestJS**
 
 - ⚡ Fun fact **I use neovim and i3**
