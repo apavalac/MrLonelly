@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Javascript developer</h1>
-<h3 align="center">Especially I love NodeJS and ReactJS</h3>
+<h3 align="center">Especially I love NodeJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-l0n3lly&label=Profile%20views&color=0e75b6&style=flat" alt="mr-l0n3lly" /> </p>
 
