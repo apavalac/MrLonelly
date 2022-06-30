@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Javascript developer</h1>
-<h3 align="center">Especially I love NodeJS</h3>
+<h1 align="center">Hi 👋, I'm a Cyber Security engineer</h1>
+<h3 align="center">Especially I love Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-l0n3lly&label=Profile%20views&color=0e75b6&style=flat" alt="mr-l0n3lly" /> </p>
 
@@ -8,15 +8,15 @@
 <p align="center"><img align="center" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif" width="80%" height="auto" /></p>
 
 
-- 🌱 I’m currently learning **microservices and NestJS**
+- 🌱 I’m currently learning **Python and a bit of Rust**
 
-- ⚡ Fun fact **I use neovim and i3**
+- ⚡ Fun fact **I use arch btw and i3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_l0n3lly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_l0n3lly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/apavalac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apavalac" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mrl0n3lly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mrl0n3lly" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mrl0n3lly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mrl0n3lly" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/andreipatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="andreipatan" height="30" width="40" /></a>
 </p>
 
