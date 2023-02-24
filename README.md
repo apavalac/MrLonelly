@@ -8,9 +8,7 @@
 <p align="center"><img align="center" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif" width="80%" height="auto" /></p>
 
 
-- 🌱 I’m currently learning **Python and a bit of Rust**
-
-- ⚡ Fun fact **I use arch btw and i3**
+- 🌱 I’m currently learning **Go and a bit of .Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
