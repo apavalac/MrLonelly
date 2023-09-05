@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Cyber Security engineer</h1>
+<h1 align="center">Hi 👋, I'm a Software Engineer</h1>
 <h3 align="center">Especially I love Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-l0n3lly&label=Profile%20views&color=0e75b6&style=flat" alt="mr-l0n3lly" /> </p>
@@ -8,7 +8,7 @@
 <p align="center"><img align="center" src="https://media3.giphy.com/media/zOvBKUUEERdNm/200.gif" width="80%" height="auto" /></p>
 
 
-- 🌱 I’m currently learning **Go and a bit of .Net**
+- 🌱 I’m currently learning **nodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
